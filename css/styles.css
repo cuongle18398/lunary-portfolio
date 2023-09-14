@@ -282,7 +282,7 @@ header a:focus{color: #ff3865;text-decoration:none}header.active{display:block}h
   background:rgba(255,255,255,0.2);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
   backdrop-filter: blur(10px);
-  outline: 1px solid rgba(255, 255, 255, .5);color:#fff;transition:.5s ease all
+  outline: 1px solid rgba(255, 255, 255, .5);color:#000;transition:.5s ease all
 }
 
 #lead-content h1{
